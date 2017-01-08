@@ -1,0 +1,55 @@
+.dayHeader {
+  background-color: #21bf27;
+}
+
+h5 {
+  color: white;
+}
+
+.schedBox {
+  background-color: white;
+  overflow: hidden;
+	margin-top: 10px;
+	margin-bottom: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+	padding-right: 10px;
+	padding-left: 10px;
+	border-radius: 5px;
+}
+.schedBoxRow {
+  margin-left: 0px;
+  margin-right: 0px;
+}
+
+.schedBoxInfo{
+	display: none;
+	font-family: 'Lato', sans-serif;
+	font-size: 8.5px;
+}
+
+
+.timeBox {
+  padding-left: 2px;
+}
+
+#time {
+  padding-top: 20px;
+}
+
+.eventBox {
+  padding-top: 5px;
+  padding-left: 2px;
+}
+
+#eventName {
+  padding-top: 5px;
+}
+
+.header1 {
+  font-size: 11px;
+}
+
+.header2 {
+  font-size: 8.5px;
+}
